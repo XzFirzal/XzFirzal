@@ -23,5 +23,6 @@
 <p>
 
 - [discord-media-player](https://github.com/XzFirzal/discord-media-player) - An [@discordjs/voice](https://npmjs.com/package/@discordjs/voice) to manage audio resource with some additional utility such as caching, looping, seeking, and filtering
+- [lavacoffee](https://github.com/XzFirzal/lavacoffee) - A lightweight and rich-featured lavalink wrapper for node.js
 </p>
 </details>
