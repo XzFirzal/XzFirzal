@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Sleep+Is+Healthy!&center=true&width=200&height=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Sleep+Is+Healthy!&center=true&width=200&height=30">
 </p>
 
 <p align="center">
